@@ -22,14 +22,11 @@ An independent Software Engineer who loves to create and share projects about we
     <a href="#"><img align="left" alt="css" title="php" width="33px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png></a>
     <a href="#"><img align="left" alt="css" title="php" width="23px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png></a>
   <a href="#"><img align="left" alt="NodeJS" title="NodeJS" width="20px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-<!--  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a> -->
    <br>
 
   - **DevOps :**
 
-    <a href="#"><img align="left" alt="css" title="php" width="30px" src=https://www.gstatic.com/devrel-devsite/prod/v85f54088ef7777280c83d69d659572c5ef9931b8141761ffdab023f32799d208/cloud/images/favicons/onecloud/apple-icon.png></a>
+    <a href="#"><img align="left" alt="css" title="php" width="25px" src=https://www.gstatic.com/devrel-devsite/prod/v85f54088ef7777280c83d69d659572c5ef9931b8141761ffdab023f32799d208/cloud/images/favicons/onecloud/apple-icon.png></a>
    <br>
 
   - **Database :**
@@ -42,7 +39,7 @@ An independent Software Engineer who loves to create and share projects about we
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href=https://github.com/slmnfqh>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slmnfqh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=slmnfqh&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -51,7 +48,6 @@ An independent Software Engineer who loves to create and share projects about we
 
 ### Reach me on
 - <a href=https://www.linkedin.com/in/sulaiman-faqih-664616138/>LinkedIn</a>
-- jhokamfaqih5@gmail.com
 - <a href=https://www.instagram.com/slmnfqh>Instagram</a>
 <!--
 **slmnfqh/slmnfqh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
