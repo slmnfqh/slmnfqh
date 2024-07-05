@@ -7,7 +7,7 @@ An independent Software Engineer who loves to create and share projects about we
 <!-- - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a> -->
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: jhokamfaqih5@gmail.com
+- 📫 How to reach me: sulaimanfaqih00@gmail.com
   <!-- - ⚡ Fun fact: Father of a daughter -->
 
 ## 👨‍💻 Professional Skills
