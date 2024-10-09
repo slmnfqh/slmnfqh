@@ -2,38 +2,39 @@
 
 ### Hi! 👋 I'm Sulaiman Faqih.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+I am a backend developer.
 
 <!-- - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a> -->
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
+- 🔭 Currently I working as a backend developer at a start up company in Jakarta.
 - 📫 How to reach me: sulaimanfaqih00@gmail.com
   <!-- - ⚡ Fun fact: Father of a daughter -->
 
 ## 👨‍💻 Professional Skills
 - **Front-End :**
 
-  <a href="#"><img align="left" alt="html" title="html" width="25px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png></a>
-  <a href="#"><img align="left" alt="css" title="css" width="25px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png></a>
-  <a href="#"><img align="left" alt="javascript" title="JavaScript" width="25px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png></a>
+  <a href="#"><img align="left" alt="html" title="html" width="25px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png></a>
+  <a href="#"><img align="left" alt="css" title="css" width="30px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png></a>
   <a href="#"><img align="left" alt="bootstrap" title="bootstrap" width="32px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png></a>
   <br>
   
  - **Back-End :**
 
-    <a href="#"><img align="left" alt="css" title="php" width="33px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png></a>
-    <a href="#"><img align="left" alt="css" title="php" width="23px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png></a>
-  <a href="#"><img align="left" alt="NodeJS" title="NodeJS" width="20px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-   <br>
+   <a href="#"><img align="left" alt="nodejs" title="nodejs" width="45px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png></a>
+   <a href="#"><img align="left" alt="nestjs" title="nestjs" width="25px" src=https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png></a>
+   <a href="#"><img align="left" alt="nestjs" title="nestjs" width="25px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/932px-NestJS.svg.png?20221211225055></a>
+   <a href="#"><img align="left" alt="nestjs" title="nestjs" width="70px" src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Nomad_PrimaryLogo_FullColor.png></a>
+           
+<br>
 
   - **DevOps :**
 
-    <a href="#"><img align="left" alt="css" title="php" width="25px" src=https://www.gstatic.com/devrel-devsite/prod/v85f54088ef7777280c83d69d659572c5ef9931b8141761ffdab023f32799d208/cloud/images/favicons/onecloud/apple-icon.png></a>
+    <a href="#"><img align="left" alt="css" title="php" width="95px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/330px-Google_Cloud_logo.svg.png></a>
    <br>
 
   - **Database :**
 
-    <a href="#"><img align="left" alt="css" title="php" width="35px" src=https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png></a>
+    <a href="#"><img align="left" alt="css" title="php" width="30px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/180px-Postgresql_elephant.svg.png></a>
+    <a href="#"><img align="left" alt="css" title="php" width="45px" src=https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png></a>
    <br>
    <br>
 
