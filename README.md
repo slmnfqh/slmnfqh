@@ -22,6 +22,7 @@ I am a backend developer.
    <a href="#"><img align="left" alt="nodejs" title="nodejs" width="45px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png></a>
    <a href="#"><img align="left" alt="nestjs" title="nestjs" width="25px" src=https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png></a>
    <a href="#"><img align="left" alt="nestjs" title="nestjs" width="25px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/932px-NestJS.svg.png?20221211225055></a>
+   <a href="#"><img align="left" alt="nestjs" title="nestjs" width="25px" src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg></a>
    <a href="#"><img align="left" alt="nestjs" title="nestjs" width="70px" src=https://upload.wikimedia.org/wikipedia/commons/e/e0/Nomad_PrimaryLogo_FullColor.png></a>
            
 <br>
