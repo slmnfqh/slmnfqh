@@ -5,7 +5,7 @@
 I am a backend developer.
 
 <!-- - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a> -->
-- 🔭 Currently I working as a backend developer at a start up company in Jakarta.
+<!-- - 🔭 Currently I working as a backend developer at a start up company in Jakarta. -->
 - 📫 How to reach me: sulaimanfaqih00@gmail.com
   <!-- - ⚡ Fun fact: Father of a daughter -->
 
